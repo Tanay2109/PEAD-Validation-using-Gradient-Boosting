@@ -1,4 +1,4 @@
-# Post-Earnings Announcement Drift (PEAD) — Alpha Research Project
+# Post-Earnings Announcement Drift (PEAD) Alpha Research using Gradient Boosting
 
 ## Table of Contents
 1. [Project Objective](#project-objective)
