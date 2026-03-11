@@ -241,7 +241,7 @@ The **alpha (α)** is the intercept; the portion of return unexplained by any kn
 |---|---|---|---|---|---|
 | v1 (4 features) FF4 | -1.82% | -7.28% | -0.577 | 0.585 | No alpha |
 | Raw SUE FF4 | +8.01% | +32.04% | 1.429 | 0.203 | Marginal |
-| **v2 (9 features) FF4** | **+8.14%** | **+32.56%** | **2.895** | **0.101** | ** Marginal (10%)** |
+| **v2 (9 features) FF4** | **+8.14%** | **+32.56%** | **2.895** | **0.101** | **Promising** |
 
 ---
 
