@@ -278,7 +278,8 @@ The **alpha (α)** is the intercept; the portion of return unexplained by any kn
 ║  4. Momentum 20d    — pre-announcement price trend               ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
-<img width="1446" height="1107" alt="image" src="https://github.com/user-attachments/assets/3fe3b882-de5c-4d27-95db-6f4eea45b763" />
+<img width="1446" height="1107" alt="image" src="https://github.com/user-attachments/assets/a62246c1-f99a-45c5-b97e-e6c2e14528fc" />
+
 
 ---
 
