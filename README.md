@@ -269,7 +269,7 @@ The **alpha (α)** is the intercept; the portion of return unexplained by any kn
 ║  ALPHA vs FAMA-FRENCH FACTORS                                    ║
 ║  Raw SUE FF4  : Alpha=+8.01%  | t=1.43 | p=0.203                 ║
 ║  ML v1 FF4    : Alpha=-1.82%  | t=-0.58 | p=0.585                ║
-║  ML v2 FF4   : Large positive alpha, near significant            ║
+║  ML v2 FF4   : Alpha=+8.14%  | t=2.895 | p=0.101                 ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  TOP PREDICTIVE FEATURES                                         ║
 ║  1. EPS Trend       — earnings growth trajectory                 ║
